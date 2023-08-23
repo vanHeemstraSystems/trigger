@@ -22,7 +22,7 @@ Trigger.dev works with either the Pages or App Router configuration.
 You have now created a new Next.js project (here we have chosen to name the project ```trigger``` and created it in ```containers/app/``` directory). Let's ```cd``` into it using the project name you just provided:
 
 ```
-$ cd [replace with your poroject name]
+$ cd [replace with your project name]
 ```
 
 3. Run the CLI 'init' command in your new Next.js project.
